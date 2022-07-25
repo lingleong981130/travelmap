@@ -114,7 +114,7 @@ class _MapScreenState extends State<MapScreen> {
         .getPlaces(
             ApiConstants.getPlaces(
                 Provider.of<MapProvider>(context, listen: false).currentLatLng!,
-                "AIzaSyA-odTvOMj0bYG0q6Hnzllp3qO4ZsYeeCg"),
+                "API_KEY"),
             context)
         .then((value) {
       setState(() {
