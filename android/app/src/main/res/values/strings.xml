@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">travelmap</string>
+    <string name="facebook_app_id">431432925667528</string>
+    <string name="fb_login_protocol_scheme">fb431432925667528</string>
+    <string name="facebook_client_token">199dafa51a31675e4c2188685ab81aa6</string>
+</resources>

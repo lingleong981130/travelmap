@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318520744290",
+    "project_id": "travelonlymap",
+    "storage_bucket": "travelonlymap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318520744290:android:3816eb2286a8c59d31343b",
+        "android_client_info": {
+          "package_name": "com.example.travelmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318520744290-k95rjh3na3266edbol7u2nco6mjf7sji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmap",
+            "certificate_hash": "80fd80a78d67b23d580656297b1dcf78407afb66"
+          }
+        },
+        {
+          "client_id": "318520744290-nolcpmukm40v0e6lobhr7j3j6sdbh5if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSN9jjmgmH6YBldKiVT1U8gHmKn1iZgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318520744290-nolcpmukm40v0e6lobhr7j3j6sdbh5if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
